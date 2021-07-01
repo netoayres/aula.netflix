@@ -44,7 +44,7 @@ header .container{
 /*Filme Principal*/
 .filme-principal{
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)80%), url('/img/capa-narcos.jpg');
+    background: linear-gradient(rgba(100, 100, 100, 0.5),rgba(0,0,0,.50)80%), url('/img/capa-narcos.jpg');
 
     height: 400px;
     background-size: cover;
@@ -89,4 +89,8 @@ header .container{
 
 .container{
     margin-left: 20px;
+}
+
+.filme-principal .container {
+    width: 70%;
 }
