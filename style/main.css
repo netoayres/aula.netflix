@@ -58,6 +58,7 @@ header .container{
 .filme-principal .descricao{
     margin-top: 15px;
     margin-bottom: 40px;
+    color:rgba(255, 255, 255, 0.750);
 }
 
 .filme-principal .titulo{
